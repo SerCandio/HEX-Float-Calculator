@@ -2,7 +2,7 @@
 Una versión paralela a la ya dada en : https://github.com/SerCandio/LABView_HEX_Float . Funciona como paquete ejecutable
 
 # Ejecucion
-1.-Dirigase al [link] (https://drive.google.com/file/d/12rtc39YpgbvIfNjscAWLHebmhTOR-nwV/view?usp=sharing) de descarga del ejecutable.
+1.-Dirigase al [link](https://drive.google.com/file/d/12rtc39YpgbvIfNjscAWLHebmhTOR-nwV/view?usp=sharing) de descarga del ejecutable.
 2.-Luego, descarge y descomprima el archivo en alguna carpeta (ejm. Descargas o Downloads) . Notara que se generan 2 carpetas : 
 
 ![image](https://user-images.githubusercontent.com/106831539/174893189-f7f50f19-e6af-407b-a0dd-c99aaa981afe.png)
