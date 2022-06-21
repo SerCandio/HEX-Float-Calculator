@@ -23,6 +23,15 @@ Tambien lo puede bajar directamente desde el archivo url de este Git Hub : https
 
 ![image](https://user-images.githubusercontent.com/106831539/174894202-b6f56e08-a916-417b-bd56-5f821d97053e.png)
 
-2.- En caso uno de los campos este vacio o no este presente , solo se convertira uno de los datos:
+2.-Observe las letras azul y roja de las etiquetas (RESULTADO FLOAT / RESULTADO u32)
+
+![image](https://user-images.githubusercontent.com/106831539/174894783-0f09e52a-9058-4036-b1ff-41ae0b6f488c.png)
+
+3.- En caso uno de los campos este vacio o no este presente , solo se convertira uno de los datos:
 
 ![image](https://user-images.githubusercontent.com/106831539/174894575-2a5bab66-b291-4f56-96ef-f1e23a262f65.png)
+
+4.- Si ninguno de los campos esta presente o se ingresa de manera incorrecta mostrara un error
+
+![image](https://user-images.githubusercontent.com/106831539/174894972-dac721bd-8ac3-4d19-8983-82af0f593f11.png)
+
